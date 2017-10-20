@@ -1,0 +1,139 @@
+
+body { 
+    padding: 30px
+}
+
+.display-color {
+    /*border: 1px solid rgba(0,0,0,0.2);
+    border-radius: 3px;    
+    padding: 5px;*/
+}
+
+.colorContainer {
+    height: 70px;
+    background-color: red;    
+    color: #fff;    
+    margin: 10px 0;
+    position: relative;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px rgba(0,0,0,0.9);
+}
+.text {
+    padding: 10px;
+    font-size: 30px;
+}
+.colorText {
+    position: absolute;
+    right: 10px;
+    top: 0;
+    font-size: 30px;
+    opacity: .9;
+    text-transform: uppercase;
+
+}
+
+.accentColor {
+    background-color : #ed233b;
+}
+.primaryColor {
+    background-color: #4990e2;
+}
+.primaryTextColor {
+    background-color: #454b57;
+}
+.secondaryTextColor {
+    background-color: #959ba6;
+}
+.tertiaryTextColor {
+    background-color :#d7dae0;   
+}
+.mainBgColor {
+    background-color: #e6e6e6;
+}
+.lightBgColor {
+    background-color: #f5f5f5;
+}
+.headerBgColor {
+    background-color :  #efefef;
+}
+.white {
+    background-color : #fff;
+    color : #333;
+}
+.whiteTransparent {
+    background-color : rgba(255, 255, 255, .8);
+    color : #333;
+}
+.whiteSmoke {
+    background-color : #f3f3f3;
+    color : #333;
+}
+.mediumGray {
+    background-color : #9b9b9b;
+}
+.lightGray {
+    background-color : #9E9E9E;
+}
+.lightBlue {
+    background-color : #2196F3;
+}
+.yellow {
+    background-color : #FFEB3B;
+}
+.black {
+    background-color : #212121;
+}
+.lightGreen {
+    background-color : #4CAF50;
+}
+.pink {
+    background-color :#E91E63;
+}
+.red {
+    background-color : #F44336;
+}
+.lightBrown {
+    background-color : #795548;
+}
+.skyBlue {
+    background-color : #03A9F4;
+}
+.yellowOrange {
+    background-color : #FF9800;
+}
+.violet {
+    background-color : #4527A0;
+}
+.gray {
+    background-color : #808080;
+}
+.greenYellow {
+    background-color : #ADFF2F;
+}
+.orange {
+    background-color : #FF8C00;
+}
+.darkRed {
+    background-color : #FF0000;
+}
+.green {
+    background-color : #006400;
+}
+.lightningYellow {
+    background-color : #F6A623;
+}
+.christi {
+    background-color : #61a912;
+}
+.irisBlue {
+    background-color : #1fbcd2;
+}
+.cadetBlue {
+    background-color : #58969E;
+}
+.hoki {
+    background-color : #677e81;
+}
+.westar {
+    background-color : #CFCDD0;
+}
